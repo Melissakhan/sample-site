@@ -50,39 +50,6 @@ body {
 	align-items: center;
 }
 
-<<<<<<< HEAD
-.site-branding {
-	height: 100%;
-	width: 100%;
-	display: flex;
-	flex-direction: row;
-	justify-content: center;
-	align-items: center;
-}
-
-/* site branding header */
-.site-branding .header-padding {
-	height: 100%;
-	width: 30%;
-	padding: 1rem;
-	display: flex;
-	flex-direction: row;
-	justify-content: space-around;
-	align-items: flex-start;
-}
-
-/* site branding header */
-.site-branding .header-padding a {
-	color: white;
-	text-decoration: none;
-	font-size: 1.2rem;
-}
-
-/* site header logo */
-.site-header .site-logo {
-	height: 190px;
-	width: 100%;
-=======
 .site-footer h3 {
 	color: #fff;
 	font-size: 1rem;
@@ -108,7 +75,6 @@ body {
 
 .header-logo {
 	height: 100%;
->>>>>>> master
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
@@ -146,22 +112,3 @@ body {
 	font-size: 1.12rem;
 }
 /* <-- Header */
-<<<<<<< HEAD
-
-/* Footer -> */
-.site-footer {
-	height: 200px;
-	width: 100vw;
-	background-color: #1b2449;
-	display: flex;
-	flex-direction: column;
-	justify-content: space-around;
-	align-items: center;
-}
-
-.site-footer h3 {
-	color: #fff;
-}
-/* <-- Footer */
-=======
->>>>>>> master
