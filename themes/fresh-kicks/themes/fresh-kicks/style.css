@@ -1,0 +1,167 @@
+/*!
+Theme Name: FreshKicks
+Theme URI: http://underscores.me/
+Author: Underscores.me
+Author URI: http://underscores.me/
+Description: Description
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: fresh-kicks
+Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
+
+*/
+
+/*  Importing google fonts  */
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+/* Global --> */
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: 'Montserrat', sans-serif;
+}
+
+/* body style */
+body {
+	overflow-x: hidden;
+}
+
+/* <-- Global */
+
+/* Site Main --> */
+.site-main {
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: center;
+	height: 100vh;
+	padding: 2rem;
+}
+
+/* Footer -> */
+.site-footer {
+	height: 200px;
+	background-color: #1b2449;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	align-items: center;
+}
+
+<<<<<<< HEAD
+.site-branding {
+	height: 100%;
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+
+/* site branding header */
+.site-branding .header-padding {
+	height: 100%;
+	width: 30%;
+	padding: 1rem;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-items: flex-start;
+}
+
+/* site branding header */
+.site-branding .header-padding a {
+	color: white;
+	text-decoration: none;
+	font-size: 1.2rem;
+}
+
+/* site header logo */
+.site-header .site-logo {
+	height: 190px;
+	width: 100%;
+=======
+.site-footer h3 {
+	color: #fff;
+	font-size: 1rem;
+}
+/* <-- Footer */
+
+/* Header --> */
+.site-header {
+	height: 10rem;
+	background-color: #1b2449;
+	color: #fff;
+}
+
+/* header container */
+.header-container {
+	/* padding-top: 4rem; */
+	height: 100%;
+}
+
+.header-padding {
+	height: 100%;
+}
+
+.header-logo {
+	height: 100%;
+>>>>>>> master
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.socials {
+	padding-top: 1rem;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-items: flex-start;
+}
+
+.socials a {
+	text-decoration: none;
+	color: #fff;
+}
+
+.main-navigation {
+	background-color: #b0000d;
+}
+
+.main-navigation .links {
+	height: 100%;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.main-navigation a {
+	color: #fff;
+	text-decoration: none;
+	font-size: 1.12rem;
+}
+/* <-- Header */
+<<<<<<< HEAD
+
+/* Footer -> */
+.site-footer {
+	height: 200px;
+	width: 100vw;
+	background-color: #1b2449;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.site-footer h3 {
+	color: #fff;
+}
+/* <-- Footer */
+=======
+>>>>>>> master
